@@ -83,7 +83,7 @@ select {
 }
 
 .header__inner {
-  background: url(/img/bg.jpg) center/cover no-repeat;
+  background: url(../img/bg.jpg) center/cover no-repeat;
   min-height: 100vh;
 }
 
